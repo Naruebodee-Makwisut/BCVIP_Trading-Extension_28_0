@@ -1,0 +1,39 @@
+{
+  "id": "b8b6d891-5ab9-435f-b091-c47639b91e6a",
+  "name": "BCVIP_Trading-Extension_28",
+  "publisher": "Default Publisher",
+  "version": "28.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "39aee12a-6147-40fa-862c-94295dd8246b",
+      "name": "VAT and Withholding Tax Localization for Thailand",
+      "publisher": "AVISIONTH",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
