@@ -545,16 +545,6 @@ page 70048 "AVTD_Purch. Order-FINISHED"
                 ApplicationArea = All;
                 Visible = true;
             }
-            //AVBCLSVIP 21.3.0.0 19/04/2023 Add : Document Attachment Factbox
-            part("Attached Documents"; "Doc. Attachment List Factbox") //C-AVNMTBCVIP.27.1 20/11/25 Fix Code for BC27
-            {
-                ApplicationArea = All;
-                Caption = 'Attachments';
-                SubPageLink = "Table ID" = CONST(38),
-                              "No." = FIELD("No."),
-                              "Document Type" = FIELD("Document Type");
-            }
-            //C-AVBCLSVIP 21.3.0.0 19/04/2023 Add : Document Attachment Factbox
         }
     }
 
@@ -583,20 +573,19 @@ page 70048 "AVTD_Purch. Order-FINISHED"
                     end;
                 }
 #if not CLEAN26
-                //AVNMTBCVIP.27.1 19/11/2025 Update Source for BC.27
-                // action(Statistics)
-                // {
-                //     ApplicationArea = All;
-                //     Caption = 'Statistics';
-                //     Image = Statistics;
-                //     ShortCutKey = 'F7';
+                action(Statistics)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Statistics';
+                    Image = Statistics;
+                    ShortCutKey = 'F7';
 
-                //     trigger OnAction();
-                //     begin
-                //         Rec.OpenPurchaseOrderStatistics();
-                //         PurchCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
-                //     end;
-                // }
+                    trigger OnAction();
+                    begin
+                        Rec.OpenPurchaseOrderStatistics();
+                        PurchCalcDiscByType.ResetRecalculateInvoiceDisc(Rec);
+                    end;
+                }
 #endif
                 action(PurchaseOrderStatistics)
                 {
@@ -614,7 +603,6 @@ page 70048 "AVTD_Purch. Order-FINISHED"
                     RunObject = Page "Purchase Order Statistics";
                     RunPageOnRec = true;
                 }
-                //C-AVNMTBCVIP.27.1 19/11/2025 Update Source for BC.27
                 action(Card)
                 {
                     ApplicationArea = All;
@@ -1362,8 +1350,7 @@ page 70048 "AVTD_Purch. Order-FINISHED"
                 Caption = 'Process', Comment = 'Generated from the PromotedActionCategories property index 1.';
 
 #if not CLEAN26
-                //AVNMTBCVIP.27.1 19/11/2025 Update Source for BC.27
-                actionref(Statistics_Promoted; PurchaseOrderStatistics) //C-AVNMTBCVIP.27 25/11/25 Update Code for BC27
+                actionref(Statistics_Promoted; Statistics)
                 {
                     ObsoleteReason = 'The statistics action will be replaced with the PurchaseStatistics action. The new action uses RunObject and does not run the action trigger. Use a page extension to modify the behaviour.';
                     ObsoleteState = Pending;
@@ -1374,7 +1361,6 @@ page 70048 "AVTD_Purch. Order-FINISHED"
                 {
                 }
 #endif
-                //C-AVNMTBCVIP.27.1 19/11/2025 Update Source for BC.27
                 actionref(Release_Promoted; Release)
                 {
                 }

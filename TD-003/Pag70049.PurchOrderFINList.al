@@ -213,16 +213,6 @@ page 70049 "AVTD_Purch. Order-FIN List"
                 ApplicationArea = All;
                 Visible = true;
             }
-            //AVBCLSVIP 21.3.0.0 19/04/2023 Add : Document Attachment Factbox
-            part("Attached Documents"; "Doc. Attachment List Factbox") //C-AVNMTBCVIP.27.1 19/11/25 Fix Code for BC27
-            {
-                ApplicationArea = All;
-                Caption = 'Attachments';
-                SubPageLink = "Table ID" = CONST(38),
-                              "No." = FIELD("No."),
-                              "Document Type" = FIELD("Document Type");
-            }
-            //C-AVBCLSVIP 21.3.0.0 19/04/2023 Add : Document Attachment Factbox
         }
     }
 

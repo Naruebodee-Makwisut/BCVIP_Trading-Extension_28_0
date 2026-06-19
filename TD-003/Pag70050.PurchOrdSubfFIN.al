@@ -572,7 +572,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
                         trigger OnAction();
                         begin
                             // ItemAvailFormsMgt.ShowItemAvailFromPurchLine(Rec, ItemAvailFormsMgt.ByEvent())
-                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::"Event"); //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::"Event");
                         end;
                     }
                     action(Period)
@@ -584,7 +584,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
                         trigger OnAction();
                         begin
                             // ItemAvailFormsMgt.ShowItemAvailFromPurchLine(Rec, ItemAvailFormsMgt.ByPeriod())
-                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Period); //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Period);
                         end;
                     }
                     action("Variant")
@@ -596,7 +596,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
                         trigger OnAction();
                         begin
                             // ItemAvailFormsMgt.ShowItemAvailFromPurchLine(Rec, ItemAvailFormsMgt.ByVariant())
-                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Variant); //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Variant);
                         end;
                     }
                     action(Location)
@@ -608,7 +608,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
                         trigger OnAction();
                         begin
                             // ItemAvailFormsMgt.ShowItemAvailFromPurchLine(Rec, ItemAvailFormsMgt.ByLocation())
-                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Location); //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::Location);
                         end;
                     }
                     action("BOM Level")
@@ -620,7 +620,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
                         trigger OnAction();
                         begin
                             // ItemAvailFormsMgt.ShowItemAvailFromPurchLine(Rec, ItemAvailFormsMgt.ByBOM())
-                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::BOM); //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+                            PurchAvailabilityMgt.ShowItemAvailabilityFromPurchLine(Rec, "Item Availability Type"::BOM);
                         end;
                     }
                 }
@@ -857,11 +857,9 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
     var
         TrackingForm: Page "Order Tracking";
     begin
-        //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
         Rec.ShowOrderTracking();
         // TrackingForm.SetPurchLine(Rec);
         // TrackingForm.RunModal();
-        //C-AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
     end;
 
     procedure avShowDimensions();
@@ -946,7 +944,7 @@ page 70050 "AVTD_Purch.Ord Subf-FIN"
     var
         PurchHeader: Record "Purchase Header";
         TransferExtendedText: Codeunit "Transfer Extended Text";
-        PurchAvailabilityMgt: Codeunit "Purch. Availability Mgt."; //AVNMTBCVIP.26.1 18/08/2025 Update for BC.26
+        PurchAvailabilityMgt: Codeunit "Purch. Availability Mgt.";
         //PurchPriceCalcMgt: Codeunit "Purch. Price Calc. Mgt.";
         ItemAvailFormsMgt: Codeunit "Item Availability Forms Mgt";
         //TransferExtendedText 

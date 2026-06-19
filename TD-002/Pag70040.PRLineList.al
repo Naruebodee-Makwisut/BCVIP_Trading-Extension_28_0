@@ -297,15 +297,9 @@ page 70040 "AVTD_PR Line List"
             //Try to find purchase quote line that all used line to PO 
             TempPurch.Reset();
             if TempPurch.FindSet() then begin
-                //AVBCLSVIP.OP.23 Subpage Copy PR-Line
-                // Clear(NoOfDocLine);
-                // Clear(NoOfUsedLine);
-                //C-AVBCLSVIP.OP.23 Subpage Copy PR-Line
+                Clear(NoOfDocLine);
+                Clear(NoOfUsedLine);
                 repeat
-                    //AVBCLSVIP.OP.23 Subpage Copy PR-Line
-                    Clear(NoOfDocLine);
-                    Clear(NoOfUsedLine);
-                    //C-AVBCLSVIP.OP.23 Subpage Copy PR-Line
                     Clear(gPurchLine);
                     gPurchLine.SetRange("Document Type", TempPurch."Document Type");
                     gPurchLine.SetRange("Document No.", TempPurch."No.");

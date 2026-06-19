@@ -5,7 +5,6 @@ codeunit 70016 "AVTD_TAB39"
     local procedure AfterDeletePurchLineEvent(var PurchLine: Record "Purchase Line"; RunTrigger: Boolean)
     var
         AVPurchLine: Record "Purchase Line";
-        AVPurchHTb: Record "Purchase Header"; //AVBCLSVIP - Edit function after delete PO Line than roll back PR Finished
     begin
         if not PurchLine.IsTemporary then
             //with PurchLine do
@@ -20,17 +19,6 @@ codeunit 70016 "AVTD_TAB39"
                     AVPurchLine."AVTD_COPY PR User Id" := '';
                     AVPurchLine."AVTD_Set PO No." := '';
                     AVPurchLine.Modify();
-
-                    //AVBCLSVIP - Edit function after delete PO Line than roll back PR Finished
-                    Clear(AVPurchHTb);
-                    AVPurchHTb.SetRange("Document Type", AVPurchHTb."Document Type"::Quote);
-                    AVPurchHTb.SetRange("No.", AVPurchLine."Document No.");
-                    if AVPurchHTb.FindFirst() then begin
-                        AVPurchHTb.SuspendStatusCheck(true);
-                        AVPurchHTb."AVTD_Finished PR" := false;
-                        AVPurchHTb.Modify(false);
-                    end;
-                    //C-AVBCLSVIP - Edit function after delete PO Line than roll back PR Finished
                 end;
             end;
     end;

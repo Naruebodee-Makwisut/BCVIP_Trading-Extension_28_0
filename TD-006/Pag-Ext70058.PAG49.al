@@ -37,9 +37,6 @@ pageextension 70058 "AVTD_PAG49" extends "Purchase Quote"
             if not PurchHeader."AVTD_Finished PR" then begin
                 if not PurchHeader."AVTD_Cancel PR" then begin
                     PurchHeader."AVTD_Cancel PR" := cancel;
-                    //AVBCLSVIP.OP.45 PR-Cancel
-                    PurchHeader."AVTD_Finished PR" := true;
-                    //C-AVBCLSVIP.OP.45 PR-Cancel
                     PurchHeader.Modify()
                 end else
                     Error('This document no. %1 alrady cancel!', PurchHeader."No.");

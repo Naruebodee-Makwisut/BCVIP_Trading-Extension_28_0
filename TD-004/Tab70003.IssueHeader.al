@@ -309,27 +309,6 @@ table 70003 "AVTD_Issue Header"
         {
             DataClassification = CustomerContent;
             TableRelation = "Gen. Product Posting Group";
-
-            //AVBCLSVIP.OP.46 Validate F.Gen. Pord. Posting Grop
-            trigger OnValidate()
-            var
-                ItemJnlLine: Record "Item Journal Line";
-            begin
-                if Rec."Gen. Prod Posting Group" <> xRec."Gen. Prod Posting Group" then begin
-                    Clear(ItemJnlLine);
-                    ItemJnlLine.SetCurrentKey("Journal Template Name", "Journal Batch Name", "Document No.");
-                    ItemJnlLine.SetRange("Journal Template Name", Rec."Journal Template Name");
-                    ItemJnlLine.SetRange("Journal Batch Name", Rec."Journal Batch Name");
-                    ItemJnlLine.SetRange("Document No.", Rec."Issue No.");
-                    if ItemJnlLine.FindSet() then begin
-                        repeat
-                            ItemJnlLine.Validate("Gen. Prod. Posting Group", Rec."Gen. Prod Posting Group");
-                            ItemJnlLine.Modify(true);
-                        until ItemJnlLine.Next() = 0;
-                    end;
-                end;
-            end;
-            //C-AVBCLSVIP.OP.46 Validate F.Gen. Pord. Posting Grop
         }
     }
 

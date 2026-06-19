@@ -186,7 +186,7 @@ page 70053 "AVTD_Purch. Quotes - Finished"
         }
         area(factboxes)
         {
-            part("Attached Documents"; "Doc. Attachment List Factbox") //C-AVNMTBCVIP.27.1 19/11/25 Fix Code for BC27
+            part("Attached Documents"; "Document Attachment Factbox")
             {
                 ApplicationArea = All;
                 Caption = 'Attachments';
