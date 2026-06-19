@@ -1,0 +1,7 @@
+.alpackages/
+.altemplates/
+.alcache/
+.vscode/
+*.app
+#app.json
+#AppSourceCop.json

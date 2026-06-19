@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TradingExt">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2693701818 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2551683794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Issue No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3045457947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issued Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Issued Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 4168959539 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Positive,Negative,Consumption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Issue Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 4168959539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Issue Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2308244223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Production Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 79791429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Requested By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1964822230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Posted By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2969163710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remark</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Remark - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2407500300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remark 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Remark 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1531732555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Bus Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Gen. Bus Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1257292699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CKD item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field CKD item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1487222247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Item Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1513572425 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normal,Scarp,Change Model,Adj</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Option Case - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1513572425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option Case</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Option Case - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3481111062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change-Model Refer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Change-Model Refer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1067639313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ref. Prod Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Ref. Prod Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2194193740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plant No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Plant No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 296632361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field BOM No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2854609558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field No. of Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3208709216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EVG Job No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field EVG Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 3545702213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consignment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Consignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 1094616889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Posted Sales Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2512951037 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>" ,PASS,NOT PASS"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Check Budget - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2512951037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Budget</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Check Budget - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2693701818 - Field 2131210992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Prod Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVTD_Issue Header - Field Gen. Prod Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 652499932 - Method 2001835238 - NamedType 2413920095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Negative Inventory is not allowed.\Please check Document No. %1 Line No. %2 Item No. %3 Location %4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVTD_COD22 - Method BeforePostItemJnlLine - NamedType Text00555Err</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3414303239 - Field 145224498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Ref. Docu No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB39 - Field AVTD_Ref. Doc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3414303239 - Field 4171149666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Ref. Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB39 - Field AVTD_Ref. Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3414303239 - Field 1808675987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Used Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB39 - Field AVTD_Used Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3414303239 - Field 2663596017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Purchase Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB39 - Field AVTD_Purchase Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3414303239 - Field 2663596017 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source> ,Fully,Final PO,Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB39 - Field AVTD_Purchase Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4269895522 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SO %1 Line No. %2 Type %3 No. %4 not invoiced. Cannot use Finish SO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVTD_SO Function - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4269895522 - NamedType 1858590414" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SO %1 Line No. %2 Type %3 No. %4 already shipped. Cannot use CANCEL SO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVTD_SO Function - NamedType Text002Err</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3939970952 - Field 2684970227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Customer Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB83 - Field AVTD_Customer Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1252723778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PR Line List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_PR Line List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order - FINISHED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Approve,Release,Posting,Prepare,Invoice,Request Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 2931503505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy-from County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Buy-from Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 1545308843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control PurchLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 4079742056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pay-to County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Pay-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 3097346278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Shipping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 3354576322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Ship-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 3624777196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Trade</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Foreign Trade - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Control 1587433127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Control Prepayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 4051756668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>O&amp;rder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action O&amp;rder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3324780168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 966610113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2995463547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepa&amp;yment Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Prepa&amp;yment Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 4201453209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Credi&amp;t Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Prepayment Credi&amp;t Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1484878399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Warehouse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 626952520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In&amp;vt. Put-away/Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action In&amp;vt. Put-away/Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1680165625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dr&amp;op Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Dr&amp;op Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3303029010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Get &amp;Sales Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2668226155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speci&amp;al Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Speci&amp;al Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2363745450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Action228 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 227370865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 803889193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 113888489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Reject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1013253961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delegate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Delegate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1330269221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action ActionGroup13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;lease</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2071937805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Reopen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2555538224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dr&amp;op Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action ActionGroup225 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 984409893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Action184 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 800526314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speci&amp;al Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action ActionGroup186 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 346713276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Action187 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3304622623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archi&amp;ve Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Archive Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3156369981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send IC Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Send IC Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2748447179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action IncomingDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2879753038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action IncomingDocCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2879753038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action IncomingDocCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1744698506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action SelectIncomingDoc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1744698506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action SelectIncomingDoc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1671420421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Incoming Document from File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action IncomingDocAttachFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1671420421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Incoming Document from File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action IncomingDocAttachFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 909458268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action RemoveIncomingDoc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 909458268 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove Incoming Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action RemoveIncomingDoc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2364670106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Request Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 383335270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send A&amp;pproval Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action SendApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 858296388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Approval Re&amp;quest</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action CancelApprovalRequest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3074450049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action ActionGroup17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1845035571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create &amp;Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Create &amp;Whse. Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 875193488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Inventor&amp;y Put-away/Pick</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Create Inventor&amp;y Put-away/Pick - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 4266201246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3150094508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Test Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 732253414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post &amp;Batch</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Post &amp;Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1271989106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remove From Job Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Remove From Job Queue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 395800757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepa&amp;yment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Prepa&amp;yment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3377369245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Test &amp;Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Prepayment Test &amp;Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 2832762608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Prepayment &amp;Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action PostPrepaymentInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1041993031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and Print Prepmt. Invoic&amp;e</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Post and Print Prepmt. Invoic&amp;e - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3485892046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Prepayment &amp;Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action PostPrepaymentCreditMemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1792290507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post and Print Prepmt. Cr. Mem&amp;o</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Post and Print Prepmt. Cr. Mem&amp;o - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 3702317261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>U&amp;ndo FINISHED PO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action U&amp;ndo FINISHED PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3880806653 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FINISHED - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Orders FINISHED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 4051756668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>O&amp;rder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action O&amp;rder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 966610113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 2995463547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepa&amp;yment Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Prepa&amp;yment Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 4201453209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Credi&amp;t Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Prepayment Credi&amp;t Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 3860314472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Approvals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 626952520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In&amp;vt. Put-away/Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action In&amp;vt. Put-away/Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 1680165625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dr&amp;op Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Dr&amp;op Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 3303029010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Get &amp;Sales Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 2668226155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speci&amp;al Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Speci&amp;al Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 992929497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Action1000000019 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2570925246 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch. Order-FIN List - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3035192297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Availability by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Item Availability by - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 1821775217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Event</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 912261439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 112710097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Variant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 2882465090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action BOM Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3868741142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reservation Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Reservation Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 4023405129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item &amp;Tracking Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Item Tracking Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3829216432 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Charge &amp;Assignment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action ItemChargeAssignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 4271580451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E&amp;xplode BOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action E&amp;xplode BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 166497642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert &amp;Ext. Texts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Insert Ext. Texts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 825293260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Reserve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Reserve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 1661329771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order &amp;Tracking</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action OrderTracking - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 4051756668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>O&amp;rder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action O&amp;rder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 1680165625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dr&amp;op Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Dr&amp;op Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 1333397436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Sales &amp;Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 2668226155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speci&amp;al Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Speci&amp;al Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - Action 4225547232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - Action Action1000000003 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - NamedType 4204058380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to execute this function while in view only mode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - NamedType Text000Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2488027015 - NamedType 2316870939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can not use the Explode BOM function because a prepayment of the purchase order has been invoiced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Purch.Ord Subf-FIN - NamedType Text001Err</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 4051756668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>O&amp;rder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action O&amp;rder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 1484878399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Warehouse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 1647151174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shipment Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Whse. Shipment Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 626952520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In&amp;vt. Put-away/Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action In&amp;vt. Put-away/Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 483158641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;lease</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Re&amp;lease - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 530829447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Re&amp;open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 4156029073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Work Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2203466783 - Action 2147331495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Reservation Avail.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales OrderFin List - Action Sales Reservation Avail. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order - Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 709296807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Post Code/City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Sell-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3434865006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Sell-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 2039904471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control SalesLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 1450094168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoicing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Invoicing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 675862156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Post Code/City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Bill-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3210397196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control SelectedPayments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3210397196 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the online payment service, such as PayPal, that customers can use to pay the sales document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control SelectedPayments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 2096911897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Bill-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3097346278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Shipping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3172878019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Post Code/City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Ship-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3354576322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to County/Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Ship-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 3624777196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Trade</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Foreign Trade - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Control 1587433127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Control Prepayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 4051756668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>O&amp;rder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action O&amp;rder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 2787584647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>S&amp;hipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action S&amp;hipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 502423214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 2995463547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepa&amp;yment Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Prepa&amp;yment Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 4201453209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Credi&amp;t Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Prepayment Credi&amp;t Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 3964368254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A&amp;pprovals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action A&amp;pprovals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 1647151174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shipment Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Whse. Shipment Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 626952520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In&amp;vt. Put-away/Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action In&amp;vt. Put-away/Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 3214574461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pla&amp;nning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Pla&amp;nning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 371640286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order &amp;Promising</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Order &amp;Promising - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 1680165625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dr&amp;op Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Dr&amp;op Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 2446493245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Purchase &amp;Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 2668226155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Speci&amp;al Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Speci&amp;al Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 28560601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Action203 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 3286206017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Undo Finish SO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Undo Finish SO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 1757112339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Order Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 4156029073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Work Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - Action 696463055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pick Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - Action Pick Ticket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3287153619 - NamedType 4204058380" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to execute this function while in view only mode.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Sales Order - Finished - NamedType Text000Err</note>
+        </trans-unit>
+        <trans-unit id="Page 359509436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359509436 - Control 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory List - Control Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359509436 - Control 3273159879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory List - Control AVSales_Person_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359509436 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory List - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359509436 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory List - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 303618939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Inventory List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 303618939 - Control 1013281224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requester Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory List - Control Sales_Person_ame - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 303618939 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory List - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 303618939 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory List - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Control 193125055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Control MAIN FORM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Control 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Control User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Control 247568838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Control Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Action 4142352379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Action Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2417216165 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3155518411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Inventory Sub form</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory Subf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3155518411 - Action 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory Subf - Action Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3155518411 - Action 113874253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Posted Inventory Subf - Action action1000000004 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2357723146 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Order List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2357723146 - Control 4226356838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order List - Control Sales_Person_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2357723146 - Control 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order List - Control Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2357723146 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order List - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2357723146 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order List - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 193125055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control MAIN FORM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 2551683794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control Issue No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 1982873215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control SalesPerson_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Control 1503236518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Control SubForm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 2013057759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Explode Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Explode Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 3972098943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Item From BOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Get Item From BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 4142352379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 2245087378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;osting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action P&amp;osting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 4236135242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P&amp;ost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action P&amp;ost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2830142488 - Action 3046642217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Issue Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order - Action Issue_print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3560110538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Order Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order Subf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3560110538 - Action 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order Subf - Action Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3560110538 - Action 582092960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign LOT/SN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order Subf - Action Assign LOT/SN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3560110538 - Action 113874253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order Subf - Action action1000000004 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3560110538 - Action 1051449441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShowItemCard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVTD_Inventory Order Subf - Action action1000000008 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 271608061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issue Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Issue Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 271608061 - Control 1310113533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>สำเนาเอกสาร</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Issue Inventory - Control สำเนาเอกสาร - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 271608061 - Control 3299906349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Issue Inventory - Control No_Of_Copies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 271608061 - Control 4059091014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Issue Inventory - Control Show_Internal_Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 271608061 - Control 2046152259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SHOW SERIAL NO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Issue Inventory - Control SHOW_SN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232826325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Issue Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Req. Issue Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232826325 - Control 1310113533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>สำเนาเอกสาร</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Req. Issue Inventory - Control สำเนาเอกสาร - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232826325 - Control 3299906349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Req. Issue Inventory - Control No_Of_Copies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232826325 - Control 4059091014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Req. Issue Inventory - Control Show_Internal_Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232826325 - Control 2046152259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SHOW SERIAL NO.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVTD_Req. Issue Inventory - Control SHOW_SN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3658028069 - Action 3501173963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>*** CANCEL PO ***</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVTD_PAG50 - Action AVTD_CANCEL PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3658028069 - Action 2272279885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>*** FINAL PO ***</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVTD_PAG50 - Action AVTD_FINAL PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3658028069 - Action 1456859515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Copy PR Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVTD_PAG50 - Action AVTD_Copy PR Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1569834020 - Action 2657840490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>FINISHED SO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVTD_PAG42 - Action AVTD_FINISHED SO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1569834020 - Action 1507159774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Cancel SO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVTD_PAG42 - Action AVTD_Cancel SO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 225820154 - Field 3290392412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Create Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB32 - Field AVTD_Create Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2776606622 - Field 970058070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB36 - Field AVTD_FINISHED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2776606622 - Field 880688096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Sales Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB36 - Field AVTD_Sales Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2776606622 - Field 880688096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source> ,Fully,Final SO,Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB36 - Field AVTD_Sales Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4051999856 - Field 970058070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB38 - Field AVTD_FINISHED - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4051999856 - Field 2663596017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Purchase Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB38 - Field AVTD_Purchase Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4051999856 - Field 2663596017 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source> ,Fully,Final PO,Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB38 - Field AVTD_Purchase Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2138910005 - Field 4269540355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB37 - Field AVTD_AVCancel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 29634474 - Field 4211117404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1180040559">
+          <source>Issue Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB313 - Field AVTD_Iss. Jnl Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 29634474 - Field 3453976952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1180040559">
+          <source>Issue Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB313 - Field AVTD_Iss. Jnl Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 29634474 - Field 2533312878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1180040559">
+          <source>Issue Gen. Bus Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB313 - Field AVTD_Iss. Gen.Bus Post. Grp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 29634474 - Field 816078567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1180040559">
+          <source>Issue Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB313 - Field AVTD_Issue Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 834278527 - Field 3400006811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2545485356">
+          <source>Journal Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB233 - Field AVTD_Journal Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 834278527 - Field 3400006811 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2545485356">
+          <source> ,Issue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVTD_TAB233 - Field AVTD_Journal Type - Property OptionCaption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
